@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+.voyager-dashboard {
+  --primary: #ff4d79;
+  --primary-light: #fff0f4;
+  --primary-dark: #e6365e;
+  --text-primary: #333333;
+  --text-secondary: #666666;
+  --background: #f8f9fa;
+  --sidebar-bg: #ffffff;
+  --border-color: #e5e7eb;
+  --card-bg: #ffffff;
+  --success: #10b981;
+
+  font-family: 'Inter', sans-serif;
+  color: var(--text-primary);
+  background-color: var(--background);
+  line-height: 1.5;
+}
+
+.voyager-dashboard * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.voyager-dashboard a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.voyager-dashboard button {
+  cursor: pointer;
+  font-family: 'Inter', sans-serif;
+}
+
+.voyager-dashboard input,
+.voyager-dashboard select,
+.voyager-dashboard textarea {
+  font-family: 'Inter', sans-serif;
+}

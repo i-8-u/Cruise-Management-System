@@ -1,0 +1,24 @@
+.welcome-container * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.welcome-container {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+.welcome-container a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.welcome-container button {
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
