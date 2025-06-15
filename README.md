@@ -23,4 +23,4 @@ Technologies used in this project:
 
 <h2>🙋‍♂️ Author</h2>
 
-Made with 💙 by **TANISHQ RS**
+made by i-8-u
